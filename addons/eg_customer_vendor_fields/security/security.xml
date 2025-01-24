@@ -1,0 +1,9 @@
+<!--<odoo>-->
+<!--    <record model="res.groups" id="group_is_customer">-->
+<!--        <field name="name">Is Customer</field>-->
+<!--    </record>-->
+
+<!--    <record model="res.groups" id="group_is_vendor">-->
+<!--        <field name="name">Is Vendor</field>-->
+<!--    </record>-->
+<!--</odoo>-->
